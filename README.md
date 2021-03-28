@@ -1,4 +1,10 @@
 ### Hi there 👋
+<a href="https://github.com/Namvarii/Namvarii">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Namvarii&show_icons=true&hide=stars&icon_color=d63030&line_height=30&include_all_commits" />
+</a>
+<a href="https://github.com/Namvarii/Namvarii">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Namvarii" />
+</a>
 
 <!--
 **namvarii/Namvarii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
