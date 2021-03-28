@@ -1,7 +1,5 @@
 ### Hi there 👋
-[![Namvarii's GitHub stats](https://github-readme-stats.vercel.app/api?username=namvarii&show_icons=true&hide=stars&theme=monokai&line_height=30&include_all_commits)](https://github.com/Namvarii/Namvarii)
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Namvarii&layout=compact)](https://github.com/Namvarii/Namvarii)
+[![Namvarii's GitHub stats](https://github-readme-stats.vercel.app/api?username=namvarii&show_icons=true&hide=stars&theme=monokai&line_height=30&include_all_commits)](https://github.com/Namvarii/Namvarii)  [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Namvarii&theme=monokai&layout=compact)](https://github.com/Namvarii/Namvarii)
 
 <!--
 **namvarii/Namvarii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
